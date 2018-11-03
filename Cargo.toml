@@ -1,0 +1,10 @@
+[package]
+name = "tokio-chat-server"
+version = "0.1.0"
+authors = ["ncaq <ncaq@ncaq.net>"]
+
+[dependencies]
+tokio = "*"
+tokio-io = "*"
+futures = "*"
+bytes = "*"
